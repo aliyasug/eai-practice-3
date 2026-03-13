@@ -1,0 +1,939 @@
+{
+  "records": {
+    "idem-happy-001": {
+      "requestHash": "sha256:710f376a70918cd880779ff5e2113ee820aa39242069a8ccc9bf89bfe978b674",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-happy-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:35.045Z"
+    },
+    "idem-pay-fail-001-1772988995222": {
+      "requestHash": "sha256:ff418e70aeb9f7dbe3942dc5cbb0af3b1282dc6c68dd648d06da2b75fdefc1ab",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-pay-fail-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:35.240Z"
+    },
+    "idem-inv-fail-001-1772988995425": {
+      "requestHash": "sha256:cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-inv-fail-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:35.437Z"
+    },
+    "idem-ship-timeout-001-1772988995626": {
+      "requestHash": "sha256:20746b03ea536f75131f4ce0cd1c1d907e8c5bf1cbd1ee47107f2de78f26baa4",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-ship-timeout-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:35.646Z"
+    },
+    "idem-comp-fail-1772988995834": {
+      "requestHash": "sha256:cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-inv-fail-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:35.848Z"
+    },
+    "idem-replay-001-1772988996027": {
+      "requestHash": "sha256:ea9e1d1a825239f599c99ed0df3a83c0e099f8ec3aec4935d42828379943043c",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-replay-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:36.036Z"
+    },
+    "idem-mismatch-001-1772988996214": {
+      "requestHash": "sha256:662485b667f22ec6862d9e9493be38a5faf432bfbbd60d1b65762367019de8f9",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-mismatch-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:36.232Z"
+    },
+    "idem-trace-1772988996418": {
+      "requestHash": "sha256:fc4f97c54d92b732f93e8a4af8c1e87943c2f3bf949b2f0f67f4c350161ef4cc",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-trace-1772988996418",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:36.433Z"
+    },
+    "idem-stress-0-1772988996605": {
+      "requestHash": "sha256:4d690779e87b22fe770a2b7ddc8afb28941bb181f5f7a5d8f0549078131176e5",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-0-1772988996605",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:36.614Z"
+    },
+    "idem-stress-1-1772988996615": {
+      "requestHash": "sha256:01c6757bce51795fe61fcbd61823be49c4cb6456f19fbc2dafcca4c7f71e841c",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-1-1772988996615",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:36.623Z"
+    },
+    "idem-stress-2-1772988996625": {
+      "requestHash": "sha256:9a0337d6a2bc055e0767fb13db1c54c5c5b668e7c68714f284394f5e49d3a7c9",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-2-1772988996625",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:36.634Z"
+    },
+    "idem-stress-3-1772988996636": {
+      "requestHash": "sha256:e3f70bf941f4ebb2af1a1b25d1c89a9cc271b246cda5f80a058d552c25f7d750",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-3-1772988996636",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:36.645Z"
+    },
+    "idem-stress-4-1772988996647": {
+      "requestHash": "sha256:33b9d795c9a884cd12405821c2bd2700e3a003cf831e1ec53195e765c2402fc2",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-4-1772988996647",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-08T16:56:36.657Z"
+    },
+    "idem-pay-fail-001-1773407420572": {
+      "requestHash": "sha256:ff418e70aeb9f7dbe3942dc5cbb0af3b1282dc6c68dd648d06da2b75fdefc1ab",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-pay-fail-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:20.617Z"
+    },
+    "idem-inv-fail-001-1773407420893": {
+      "requestHash": "sha256:cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-inv-fail-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:20.935Z"
+    },
+    "idem-ship-timeout-001-1773407421203": {
+      "requestHash": "sha256:20746b03ea536f75131f4ce0cd1c1d907e8c5bf1cbd1ee47107f2de78f26baa4",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-ship-timeout-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:21.383Z"
+    },
+    "idem-comp-fail-1773407421688": {
+      "requestHash": "sha256:cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-inv-fail-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:21.743Z"
+    },
+    "idem-replay-001-1773407422004": {
+      "requestHash": "sha256:ea9e1d1a825239f599c99ed0df3a83c0e099f8ec3aec4935d42828379943043c",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-replay-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:22.063Z"
+    },
+    "idem-mismatch-001-1773407422352": {
+      "requestHash": "sha256:662485b667f22ec6862d9e9493be38a5faf432bfbbd60d1b65762367019de8f9",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-mismatch-001",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:22.414Z"
+    },
+    "idem-trace-1773407422718": {
+      "requestHash": "sha256:ba5b5cc1e411c50d37a67f29aaff5bd8cf1fb4f85af47836762f412cb6ce9fa6",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-trace-1773407422718",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:22.769Z"
+    },
+    "idem-stress-0-1773407423025": {
+      "requestHash": "sha256:d3460ac78a5bdb015e30593072bc2530753fec018770f3e8198c09e279a461ed",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-0-1773407423025",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:23.158Z"
+    },
+    "idem-stress-1-1773407423191": {
+      "requestHash": "sha256:54c8c4e7bc1409cb7f16901448d207fff5901642aa74cb539a351e020931aa36",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-1-1773407423191",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:23.255Z"
+    },
+    "idem-stress-2-1773407423282": {
+      "requestHash": "sha256:b5d804b76b5001b7ffa5faf5f0ed7962856467d2d1432501e197421a09ff2f59",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-2-1773407423282",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:23.336Z"
+    },
+    "idem-stress-3-1773407423356": {
+      "requestHash": "sha256:e31defa40df2db3a3f1ce08f934bc0b4587f0ec584db0f2b2e79c5e62896305f",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-3-1773407423356",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:23.451Z"
+    },
+    "idem-stress-4-1773407423479": {
+      "requestHash": "sha256:557545594f837250c68ea22556413a43c54aad600fc27bf115b6e2f6f32b1d66",
+      "state": "failed",
+      "httpStatus": 422,
+      "response": {
+        "orderId": "ord-stress-4-1773407423479",
+        "status": "failed",
+        "code": "not_implemented",
+        "message": "Implement orchestration logic in orchestrator/server.js",
+        "trace": []
+      },
+      "updatedAt": "2026-03-13T13:10:23.543Z"
+    }
+  },
+  "idem-happy-001": {
+    "status": "completed",
+    "payloadHash": "710f376a70918cd880779ff5e2113ee820aa39242069a8ccc9bf89bfe978b674",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-happy-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-pay-fail-001-1773408143052": {
+    "status": "completed",
+    "payloadHash": "ff418e70aeb9f7dbe3942dc5cbb0af3b1282dc6c68dd648d06da2b75fdefc1ab",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-pay-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-inv-fail-001-1773408143398": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-ship-timeout-001-1773408143954": {
+    "status": "completed",
+    "payloadHash": "20746b03ea536f75131f4ce0cd1c1d907e8c5bf1cbd1ee47107f2de78f26baa4",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-ship-timeout-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-comp-fail-1773408144313": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-replay-001-1773408144598": {
+    "status": "completed",
+    "payloadHash": "ea9e1d1a825239f599c99ed0df3a83c0e099f8ec3aec4935d42828379943043c",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-replay-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-mismatch-001-1773408144867": {
+    "status": "completed",
+    "payloadHash": "662485b667f22ec6862d9e9493be38a5faf432bfbbd60d1b65762367019de8f9",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-mismatch-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-trace-1773408145176": {
+    "status": "completed",
+    "payloadHash": "793c1d7337de206cd99fa42f05ac127fb9a80d098ebfb5d21d7ccbba4ed5af48",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-trace-1773408145176",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-0-1773408145485": {
+    "status": "completed",
+    "payloadHash": "12e6aae37f89d05be81ef9a109e2932fb65de2124db3874181a377c2c3ccc8b1",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-0-1773408145485",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-1-1773408145569": {
+    "status": "completed",
+    "payloadHash": "cc048b0376efd96c679092bfefe2ceeb762e7939489c78ed2d1577f85a115d0c",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-1-1773408145569",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-2-1773408145671": {
+    "status": "completed",
+    "payloadHash": "121f6f8662f7e8894b4fc043200ecafee3d46278c332a8d973222585df3d520d",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-2-1773408145671",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-3-1773408145750": {
+    "status": "completed",
+    "payloadHash": "d25635016f2aeae9a1be1c92435856f640d3c0626f9eb7c63a393d54737beef4",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-3-1773408145749",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-4-1773408145826": {
+    "status": "completed",
+    "payloadHash": "c204dc6a60bc8fb54b11b1ab343461abe569ec4e9e9b094860a5a8150f7b6ace",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-4-1773408145826",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-pay-fail-001-1773408675039": {
+    "status": "completed",
+    "payloadHash": "ff418e70aeb9f7dbe3942dc5cbb0af3b1282dc6c68dd648d06da2b75fdefc1ab",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-pay-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-inv-fail-001-1773408675390": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-ship-timeout-001-1773408675800": {
+    "status": "completed",
+    "payloadHash": "20746b03ea536f75131f4ce0cd1c1d907e8c5bf1cbd1ee47107f2de78f26baa4",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-ship-timeout-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-comp-fail-1773408676125": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-replay-001-1773408676430": {
+    "status": "completed",
+    "payloadHash": "ea9e1d1a825239f599c99ed0df3a83c0e099f8ec3aec4935d42828379943043c",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-replay-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-mismatch-001-1773408676719": {
+    "status": "completed",
+    "payloadHash": "662485b667f22ec6862d9e9493be38a5faf432bfbbd60d1b65762367019de8f9",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-mismatch-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-trace-1773408677041": {
+    "status": "completed",
+    "payloadHash": "4ec60d32c72ac1ae075866cd33d487dc21c4596999b923258b326db208bff914",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-trace-1773408677041",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-0-1773408677333": {
+    "status": "completed",
+    "payloadHash": "99f8188578159ec929599cae3f8178f9cbfa255452131e30ccc27ee62f66b8a3",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-0-1773408677333",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-1-1773408677453": {
+    "status": "completed",
+    "payloadHash": "740647438407ebfb1505241d6e5f07bf51f2849af70c916be71e1e911ca3a831",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-1-1773408677453",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-2-1773408677676": {
+    "status": "completed",
+    "payloadHash": "58a786dc5a92836c865238e5e1de17d870a5adefd9d7e0112cd506bfeffeab23",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-2-1773408677675",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-3-1773408677766": {
+    "status": "completed",
+    "payloadHash": "059141423f2ac4cb4b1eeb34546540c15fb265a2f099f6bdce749e3fa33af871",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-3-1773408677766",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-4-1773408677845": {
+    "status": "completed",
+    "payloadHash": "be184cab5c56fe358825003c4846f619b9f4f481772edc6842df9a2892b191e9",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-4-1773408677845",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-pay-fail-001-1773410184056": {
+    "status": "completed",
+    "payloadHash": "ff418e70aeb9f7dbe3942dc5cbb0af3b1282dc6c68dd648d06da2b75fdefc1ab",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-pay-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-inv-fail-001-1773410184393": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-ship-timeout-001-1773410184709": {
+    "status": "completed",
+    "payloadHash": "20746b03ea536f75131f4ce0cd1c1d907e8c5bf1cbd1ee47107f2de78f26baa4",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-ship-timeout-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-comp-fail-1773410185012": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-replay-001-1773410185312": {
+    "status": "completed",
+    "payloadHash": "ea9e1d1a825239f599c99ed0df3a83c0e099f8ec3aec4935d42828379943043c",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-replay-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-mismatch-001-1773410185626": {
+    "status": "completed",
+    "payloadHash": "662485b667f22ec6862d9e9493be38a5faf432bfbbd60d1b65762367019de8f9",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-mismatch-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-trace-1773410185919": {
+    "status": "completed",
+    "payloadHash": "c8b3746c8faf6a296e52ebdf26dadd9f80ed602c1c93f9c43bf52c82a6fb6f85",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-trace-1773410185919",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-0-1773410186212": {
+    "status": "completed",
+    "payloadHash": "ab9ecf4c9cea2eecaea1d2e5278acef861d91df829fc18d9dc8435fe5fdcbf10",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-0-1773410186212",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-1-1773410186285": {
+    "status": "completed",
+    "payloadHash": "ece6167dc88e59e8b38d99eec3455826818a0db5fe347f373c00af571da230f9",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-1-1773410186285",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-2-1773410186458": {
+    "status": "completed",
+    "payloadHash": "ae5597fa35567843611bdbedab3e55a8f475383f1e5211ac3de92160ebbe5363",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-2-1773410186458",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-3-1773410186732": {
+    "status": "completed",
+    "payloadHash": "3c843823ee6c22b73840ae25ffe7fb9523363e0146184a2686d0f608affafe73",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-3-1773410186732",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-4-1773410186830": {
+    "status": "completed",
+    "payloadHash": "b5ed953d8548bab8dfea823067bc3795d35febd4b35787a816367cd86322826f",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-4-1773410186830",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-pay-fail-001-1773414891292": {
+    "status": "completed",
+    "payloadHash": "ff418e70aeb9f7dbe3942dc5cbb0af3b1282dc6c68dd648d06da2b75fdefc1ab",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-pay-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-inv-fail-001-1773414891615": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-ship-timeout-001-1773414891978": {
+    "status": "completed",
+    "payloadHash": "20746b03ea536f75131f4ce0cd1c1d907e8c5bf1cbd1ee47107f2de78f26baa4",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-ship-timeout-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-comp-fail-1773414892301": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-replay-001-1773414892596": {
+    "status": "completed",
+    "payloadHash": "ea9e1d1a825239f599c99ed0df3a83c0e099f8ec3aec4935d42828379943043c",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-replay-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-mismatch-001-1773414892889": {
+    "status": "completed",
+    "payloadHash": "662485b667f22ec6862d9e9493be38a5faf432bfbbd60d1b65762367019de8f9",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-mismatch-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-trace-1773414893166": {
+    "status": "completed",
+    "payloadHash": "17170c105b73895b07d6bd0c4c15a8875e245da53829cfddb52748929dfdae09",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-trace-1773414893166",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-0-1773414893446": {
+    "status": "completed",
+    "payloadHash": "04a1e0fd9ee17721336edb0e4b767664bc2e1c9aa08123f0b38c693032f54881",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-0-1773414893446",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-1-1773414893506": {
+    "status": "completed",
+    "payloadHash": "3c557ab7920df931e39f4dba449b2d54f52ce0dc78e5b9cac67c8f254452c1ce",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-1-1773414893506",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-2-1773414893582": {
+    "status": "completed",
+    "payloadHash": "a285401d0846d02a2622334ca848d04b0d75d0eba7e66ab421499f4660aa1a95",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-2-1773414893582",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-3-1773414893661": {
+    "status": "completed",
+    "payloadHash": "f7a2a2c184c3fc8e6f56855691ec5e812ad8ad3edd7b2254b7fc48c96b5609bb",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-3-1773414893661",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-4-1773414893740": {
+    "status": "completed",
+    "payloadHash": "dae9ca29a36f61cc14801df2108e6df152a8edd3e76dfa85cbe62d5205367097",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-4-1773414893740",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-pay-fail-001-1773418695191": {
+    "status": "completed",
+    "payloadHash": "ff418e70aeb9f7dbe3942dc5cbb0af3b1282dc6c68dd648d06da2b75fdefc1ab",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-pay-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-inv-fail-001-1773418695556": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-ship-timeout-001-1773418695887": {
+    "status": "completed",
+    "payloadHash": "20746b03ea536f75131f4ce0cd1c1d907e8c5bf1cbd1ee47107f2de78f26baa4",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-ship-timeout-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-comp-fail-1773418696188": {
+    "status": "completed",
+    "payloadHash": "cbc521b22a688d49033ba30d96e527f25283b0e9d4c753a1e4d5016d1e5df77e",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-inv-fail-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-replay-001-1773418696483": {
+    "status": "completed",
+    "payloadHash": "ea9e1d1a825239f599c99ed0df3a83c0e099f8ec3aec4935d42828379943043c",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-replay-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-mismatch-001-1773418696814": {
+    "status": "completed",
+    "payloadHash": "662485b667f22ec6862d9e9493be38a5faf432bfbbd60d1b65762367019de8f9",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-mismatch-001",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-trace-1773418697105": {
+    "status": "completed",
+    "payloadHash": "bef3f24d702e959d9260599da11ce7059c6728fb901ef1238873b5ba5c07d6e2",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-trace-1773418697104",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-0-1773418697397": {
+    "status": "completed",
+    "payloadHash": "a49b77b62661c6fa8a60d7b3e12e74db5bb7a2c18c1f0ab018ac55f3f6c1b138",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-0-1773418697397",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-1-1773418697472": {
+    "status": "completed",
+    "payloadHash": "7fa76f8994c047bc3a437fe3833a4f5d8cec6b409cb1d1968d6c86808f2878d6",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-1-1773418697472",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-2-1773418697596": {
+    "status": "completed",
+    "payloadHash": "50d4a929fe9d03c9ba54518ed059becca98469e6d4ffc42906461df1be110c3f",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-2-1773418697596",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-3-1773418697688": {
+    "status": "completed",
+    "payloadHash": "b10b2293557d7baa9f992978e0d5663382a8df2557239be40c5a9cc1b34f0743",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-3-1773418697688",
+      "status": "failed",
+      "trace": []
+    }
+  },
+  "idem-stress-4-1773418697773": {
+    "status": "completed",
+    "payloadHash": "a362b4647daebd458a42d01e0be4355f3d585d0e4ae6d712993d16d2f1d37b4f",
+    "httpStatus": 422,
+    "response": {
+      "orderId": "ord-stress-4-1773418697773",
+      "status": "failed",
+      "trace": []
+    }
+  }
+}
